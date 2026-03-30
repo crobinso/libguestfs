@@ -30,6 +30,7 @@ ifelse(REDHAT,1,
   cryptsetup
   cryptsetup-luks      dnl old name used before Fedora 17
   dhclient
+  dhcp-client
   dhcpcd
   gfs-utils
   gfs2-utils
